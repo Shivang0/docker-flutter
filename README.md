@@ -46,4 +46,4 @@ You can mount any volume you need to allow the image to scan its files.
 
 ## Copyright and license
 
-The MIT License (MIT) [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
+[![NPM](https://img.shields.io/npm/l/react-otp-input)](http://www.opensource.org/licenses/mit-license.php)
